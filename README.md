@@ -13,7 +13,7 @@ go get "github.com/OctopusDeploy/go-octopusdeploy"
 ## Usage
 
 ```go
-import "github.com/OctopusDeploy/go-octopusdeploy/octopusdeploy"
+import "github.com/fqjony/go-octopusdeploy/octopusdeploy"
 ```
 
 The [Octopus REST API](https://octopus.com/docs/octopus-rest-api) is exposed through service fields of the client. An API key is required to communicate with the API (see [How to Create an API Key](https://octopus.com/docs/octopus-rest-api/how-to-create-an-api-key) for more information).

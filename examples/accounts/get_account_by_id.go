@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/OctopusDeploy/go-octopusdeploy/octopusdeploy"
+	"github.com/fqjony/go-octopusdeploy/octopusdeploy"
 )
 
 func GetAccountByIDExample() {

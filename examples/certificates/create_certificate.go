@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/OctopusDeploy/go-octopusdeploy/octopusdeploy"
+	"github.com/fqjony/go-octopusdeploy/octopusdeploy"
 )
 
 // CreateCertificateExample shows how to create a certificate using go-octopusdeploy.
