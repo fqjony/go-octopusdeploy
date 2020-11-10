@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/OctopusDeploy/go-octopusdeploy/uritemplates"
+	"github.com/fqjony/go-octopusdeploy/uritemplates"
 	"github.com/stretchr/testify/require"
 )
 
